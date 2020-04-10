@@ -1,6 +1,6 @@
 # TN40
 
-![TN40](https://github.com/takumaniihara/TN40/tree/master/hardware/TN40image.jpg)
+![TN40](https://github.com/takumaniihara/TN40/blob/master/hardware/TN40image.jpg?raw=true)
 
 A short description of the keyboard/project
 

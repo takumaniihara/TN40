@@ -6,7 +6,7 @@ A short description of the keyboard/project
 
 * Keyboard Maintainer: [Takuma Niihara](https://github.com/takumaniihara)
 * Hardware Supported: The PCBs, controllers supported
-* Hardware Availability: Links to where you can find this hardware
+* Hardware Availability: https://github.com/takumaniihara/TN40
 
 Make example for this keyboard (after setting up your build environment):
 
